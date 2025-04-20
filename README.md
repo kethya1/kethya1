@@ -7,7 +7,7 @@
 ## 🔧 Compétences
 
 - **Langages** : C, Python, HTML/CSS
-- **Outils & Tech** : Git, Linux (Ubuntu/Kali), VirtualBox, Arduino
+- **Outils** : Git, Linux (Ubuntu/Kali), VirtualBox, Arduino
 
 
 ---
