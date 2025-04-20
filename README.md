@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Salut ! (rubrique en cours de construction) 
 
-<!--
-**kethya1/kethya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante à l'ISTY
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences
+
+- **Langages** : C, Python, HTML/CSS
+- **Outils & Tech** : Git, Linux (Ubuntu/Kali), VirtualBox, Arduino
+
+
+---
+
+## 🚀 Projets académiques
+
+| Projet | Description | Langage / Techno |
+|--------|-------------|------------------|
+| [🔐 Stéganographie en C](//) | Cacher du texte dans une image BMP | C |
+| [🧃 Distributeur de boisson](//) | Projet en cours | C / Arduino |
+| [🌐 Site web ](//) | Projet en cours | HTML /CSS/ JS |
+| [🎮 Mastermind / Hokito](//) | Petits jeux en ligne de commande | C |
+
+
+---
+
+## 📫 Me contacter
+
+
+
+---
+
+
