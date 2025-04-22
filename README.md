@@ -25,7 +25,7 @@
 
 | Projet | Description | Langage / Techno |
 |--------|-------------|------------------|
-| [🔐 Stéganographie en C](//) | Cacher du texte dans une image BMP | C |
+| [🔐 Stéganographie en C](https://github.com/kethya1/stegano-c) | Cacher du texte dans une image BMP | C |
 | [🧃 Distributeur de boisson](//) | Projet en cours | C / Arduino |
 | [🌐 Site web ](//) | Projet en cours | HTML /CSS/ JS |
 | [🎮 Mastermind / Hokito](//) | Petits jeux en ligne de commande | C |
