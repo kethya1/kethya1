@@ -1,25 +1,38 @@
-# 👋 Salut ! (rubrique en cours de construction) 
+# 👋 Bienvenue ! 
 
-🎓 Étudiante à l'ISTY
-
----
-
-
-## ⚙️ Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+🎓 Étudiante à l'ISTY UVSQ Paris-Saclay et future ingénieure en informatique, je suis passionnée par les nouvelles technologies, la cybersécurité et les projets embarqués.
 
 
 
----
+
+## ⚙️ Outils
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" height="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40"/>
+  <img src="https://cdn.simpleicons.org/arduino/00979D" alt="Arduino" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="40"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL" height="40"/>
+  <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="Ubuntu" height="40"/>
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" alt="VirtualBox" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VSCode" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" alt="MATLAB" height="40"/>
+  <img src="https://cdn.simpleicons.org/kicad/314CB6" alt="KiCad" height="40"/>
+  <img src="https://cdn.simpleicons.org/autodesk/F29305" alt="Fusion 360" height="40"/>
+</p>
+
+
+
+
+
 
 ## 🚀 Projets académiques
 
@@ -31,9 +44,8 @@
 | [🎮 Mastermind / Hokito](//) | Petits jeux en ligne de commande | C |
 
 
----
 
-## 📫 Me contacter
+
 
 
 
