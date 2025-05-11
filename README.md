@@ -8,7 +8,7 @@
 ## ⚙️ Outils
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" title="C" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="40">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" height="40"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" height="40"/>
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" title="CCS3" height="40"/>
