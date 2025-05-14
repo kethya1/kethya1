@@ -39,7 +39,7 @@
 | Projet | Description | Langage / Techno |
 |--------|-------------|------------------|
 | [🔐 Stéganographie en C](https://github.com/kethya1/stegano-c) | Cacher du texte dans une image BMP | C |
-| [🧃 Distributeur de boisson](//) | Projet en cours | C / Arduino |
+| [🧃 Distributeur de boisson](https://github.com/kethya1/projet-distributeur-boisson) | Projet en cours | Arduino |
 | [🌐 Site web ](//) | Projet en cours | HTML /CSS/ JS |
 | [🎮 Mastermind / Hokito](https://github.com/kethya1/masternumber) | Petits jeux en ligne de commande | C |
 
