@@ -1,7 +1,6 @@
 # 👋 Bienvenue ! 
 
-🎓 Étudiante à l'ISTY UVSQ Paris-Saclay et future ingénieure en informatique, je suis passionnée par les nouvelles technologies, la cybersécurité et les projets embarqués.
-
+🎓
 
 
 
